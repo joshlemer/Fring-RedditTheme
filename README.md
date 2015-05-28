@@ -1,3 +1,6 @@
+Scala-Fring
+===============
+This is a fork of [Fring](https://www.github.com/imjustadude90/Fring-RedditTheme) that just customizes the color scheme and a few other minor things in order to make /r/Scala look like http://www.scala-lang.org
 
 Fring
 ===============
