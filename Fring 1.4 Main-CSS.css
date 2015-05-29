@@ -369,7 +369,7 @@ body {
 }
 .res-nightmode .tabmenu li a{border-right: 1px solid rgba(0, 0, 0, 0.3)!Important}
 .tabmenu li a:hover {
-    color: #859900;
+    color: #F16665;
     background-color: #fff;
 }
 .res-nightmode .tabmenu li a {
@@ -388,7 +388,7 @@ body {
     background-color: #FFFFFF;
     border: 0px;
     border-bottom: 0px;
-    color: #859900;
+    color: #F16665;
 }
 .res-nightmode .tabmenu li.selected a {
     color: #fff!Important;
@@ -520,7 +520,7 @@ h1.redditname {
     color: #fff;
     margin-left: -259px;
     margin-top: 22px;
-    background-color: #859900;
+    background-color: #F16665;
 }
 /**Font Size**/
 
@@ -545,7 +545,7 @@ h1.redditname {
     position: relative;
     display: block;
     margin: 0 auto;
-    background-color: #859900;
+    background-color: #F16665;
     -webkit-box-shadow: 0px 3px 0px #D75A41;
     -moz-box-shadow: 0px 3px 0px #D75A41;
     box-shadow: 0px 3px 0px #D75A41;
@@ -854,7 +854,7 @@ body:not(.res) .titlebox .fancy-toggle-button {
     border: none;
     height: 35px;
     line-height: 35px;
-    background-color: #859900;
+    background-color: #F16665;
     -webkit-box-shadow: 0px 3px 0px #D75A41;
     -moz-box-shadow: 0px 3px 0px #D75A41;
     box-shadow: 0px 3px 0px #D75A41;
@@ -946,7 +946,7 @@ form#search {
     box-shadow: 0px 4px 0px #333;
 }
 #search input[type=submit] {
-    background: #859900;
+    background: #F16665;
     background-image: url(%%spritesheet%%);
     background-position: -6px -113px;
     background-repeat: no-repeat;
@@ -1260,7 +1260,7 @@ background-repeat: no-repeat
 }
 
 .link .entry .buttons li a.comments{
-    color:#859900;
+    color:#F16665;
     font-weight:600;
 }
 /*Spam*/
@@ -1280,7 +1280,7 @@ background-repeat: no-repeat
     margin: 0px;
     padding: 8px 8px;
     border-bottom: 1px solid rgba(234, 234, 234, 0.4);
-    background-color: #fff;
+    background-color: #E2E9EF;
 }
 .res.res-nightmode .linklisting .link {
     background-color: #161616!Important;
@@ -1576,7 +1576,7 @@ body .comment .comment .comment .comment .comment .comment .comment .comment .co
 .res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment,
 .res-commentBoxes .content .comment .comment .comment .comment .comment .comment .comment .comment .comment
  {
-    background-color: #fff!important;
+    background-color: #E2E9EF!important;
     border-radius: 3px !important;
 }
 
@@ -1611,7 +1611,7 @@ body .comment .comment .comment .comment .comment .comment .comment .comment .co
 }
 .commentarea .menuarea .dropdown.lightdrop .selected {
     background-color: transparent;
-    color: #859900;
+    color: #F16665;
 }
 .commentarea .panestack-title {
     margin: 0px 0px 0px 0px;
@@ -1702,7 +1702,7 @@ body .comment .comment .comment .comment .comment .comment .comment .comment .co
 }
 .menuarea .drop-choices a.choice:hover {
     color: #fff;
-    background-color: #859900;
+    background-color: #F16665;
 }
 .res-nightmode .menuarea .drop-choices a.choice:hover {
     background-color: #181818!Important;
@@ -2047,7 +2047,7 @@ form .spacer+.spacer {
     font-size: 16px;
     margin-right: 0px;
     color: #fff;
-    background-color: #859900;
+    background-color: #F16665;
 }
 .res-nightmode .submit-page #newlink.submit.content .tabmenu.formtab .selected a {
     background-color: #161616!Important;
@@ -2057,7 +2057,7 @@ form .spacer+.spacer {
     color: #fff;
     padding: 15px;
     font-size: 15px;
-    background-color: #859900;
+    background-color: #F16665;
 }
 .res-nightmode .submit-page .infobar {
     background-color: #161616!Important;
@@ -2571,16 +2571,16 @@ margin-top: 10px;
 #search input[type=submit],.btn,.menuarea .drop-choices a.choice:hover,.side .titlebox .md h3 a,.side div.morelink,.side div.sidecontentbox a.helplink:hover:after,.submit-page #newlink.submit.content .tabmenu.formtab .selected a,.submit-page div.infobar,button
 {
     /*
-    background-color: #859900;
+    background-color: #F16665;
     */
 } 
 
 /* Part 3: Shadow on buttons - should be slightly darker than the background color*/
 .btn,.side .titlebox .md h3 a,.side div.morelink,button
 {
-    -webkit-box-shadow: 0px 3px 0px #5A6600;
-    -moz-box-shadow: 0px 3px 0px #5A6600;
-    box-shadow: 0px 3px 0px #5A6600;
+    -webkit-box-shadow: 0px 3px 0px #D64546;
+    -moz-box-shadow: 0px 3px 0px #D64546;
+    box-shadow: 0px 3px 0px #D64546;
 }
 
 /* Part 4: Link Color for menus and the comments link*/
