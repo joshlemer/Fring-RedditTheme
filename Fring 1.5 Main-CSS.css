@@ -127,8 +127,8 @@ body {
 
 #header {
     border-bottom: 0px;
-    -webkit-box-shadow: 0px 2px 0px #e2e2e2;
-    -moz-box-shadow: 0px 2px 0px #e2e2e2;
+    /*-webkit-box-shadow: 0px 2px 0px #e2e2e2;*/
+    /*-moz-box-shadow: 0px 2px 0px #e2e2e2;*/
     /*box-shadow: 0px 1px 0px #E0E0E0; remove white line under header*/
     position: relative;
     background-color: #93b2c7;
