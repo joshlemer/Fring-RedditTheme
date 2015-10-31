@@ -2918,10 +2918,15 @@ ul.report-reasons {
     background-color: #002B36;
 }
 
+.discuss-ad, .footer.rounded a {
+    color: #FFF;
+}
+
+
 /* Part 2: Background color on submit buttons, infobar on submit page etc*/
 .menuarea .drop-choices a.choice:hover,.side .titlebox .md h3 a,.side div.morelink,.side div.sidecontentbox  a.helplink:hover:after,.submit-page #newlink.submit.content .tabmenu.formtab .selected a,.submit-page div.infobar
 {
-background-color: #F16665;
+    background-color: #F16665;
 }
 
 /* Part 3: Shadow on buttons - should be slightly darker than the background color*/
