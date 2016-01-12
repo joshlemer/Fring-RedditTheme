@@ -3188,3 +3188,17 @@ ul.report-reasons {
     min-width: 67px;
     background-position: -5px -365px;
 }
+
+.flair.flair-actor-logo-flair {
+    background-image: url(%%userflair-actor%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 60px;
+    min-width: 60px;
+}
