@@ -3202,3 +3202,16 @@ ul.report-reasons {
     text-indent: 60px;
     min-width: 60px;
 }
+.flair.flair-kamon-logo-flair {
+    background-image: url(%%userflair-kamon%%);
+    background-color: #74c043;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 75px;
+    min-width: 75px;
+}
