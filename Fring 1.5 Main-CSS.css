@@ -3228,3 +3228,16 @@ ul.report-reasons {
     text-indent: 20px;
     min-width: 20px;
 }
+.flair.flair-scala-ide-logo-flair {
+    background-image: url(%%userflair-scala-ide%%);
+    background-color: #222222;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 67px;
+    min-width: 67px;
+}
