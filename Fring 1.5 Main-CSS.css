@@ -3241,3 +3241,16 @@ ul.report-reasons {
     text-indent: 67px;
     min-width: 67px;
 }
+.flair.flair-lightbend-logo-flair {
+    background-image: url(%%userflair-lightbend%%);
+    background-color: ##1c3b47;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 94px;
+    min-width: 94px;
+}
