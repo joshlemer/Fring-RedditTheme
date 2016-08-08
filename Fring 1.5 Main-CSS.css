@@ -3267,3 +3267,29 @@ ul.report-reasons {
     text-indent: 62px;
     min-width: 62px;
 }
+.flair.flair-quill-logo-flair {
+    background-image: url(%%userflair-quill%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 49px;
+    min-width: 49px;
+}
+.flair.flair-monix-logo-flair {
+    background-image: url(%%userflair-monix%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 33px;
+    min-width: 33px;
+}
