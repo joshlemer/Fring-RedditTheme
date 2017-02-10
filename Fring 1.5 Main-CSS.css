@@ -3306,3 +3306,16 @@ ul.report-reasons {
     text-indent: 98px;
     min-width: 98px;
 }
+.flair.flair-java-logo-flair {
+    background-image: url(%%userflair-java%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 41px;
+    min-width: 41px;
+}
