@@ -1,0 +1,105 @@
+**Information Regarding Scala:**
+
+* [Official Website](http://www.scala-lang.org/)  
+* **[Try Scala Online!](https://scalafiddle.io/sf/gKgxQY0/1)**
+* [Scala.js](https://www.scala-js.org/)  
+* [Scala Native](http://www.scala-native.org/)
+* [Documentation](http://docs.scala-lang.org/)  
+* **[Contribute to Scala](http://scala-lang.org/contribute/)**
+* [StackOverflow Info](http://stackoverflow.com/tags/scala/info)
+* [StackOverflow Recent Questions](http://stackoverflow.com/questions/tagged/scala)
+
+**Books, Tutorials and Guides:**
+
+* [Scala School](http://twitter.github.io/scala_school/)
+* [Scala Tutorial](http://www.tutorialspoint.com/scala/index.htm)
+* [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)  
+  
+**Non-free Books:**  
+  
+* [Programming in Scala, Third Edition](http://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687)  
+* [Atomic Scala](http://www.atomicscala.com/)  
+* [Programming Scala](http://shop.oreilly.com/product/0636920033073.do) (O'Reilley)  
+* [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) (Manning)  
+* [Mastering Advanced Scala](https://leanpub.com/mastering-advanced-scala)
+
+**Online Resources:**
+
+* [Interactive Scala Worksheets](http://www.scalakata.com/)
+* [Typesafe Activator](http://typesafe.com/activator)
+* [Scala Exercises] (http://scala-exercises.47deg.com/)
+* [Hands-on Scala.js] (http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js)
+
+**Free Scala Courses:**
+
+* [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1)  
+* [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)  
+* [Parallel Programming](https://www.coursera.org/learn/parprog1)
+* [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys)  
+Older courses:  
+* [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
+* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)  
+  
+**Scala Conferences:**
+
+* [Typelevel Summits](http://typelevel.org/events/) (Misc.)
+* [Scala by the Bay](http://scala.bythebay.io/) (USA)
+* [flatMap](http://2016.flatmap.no/) (Norway)
+* [Scala Up North](http://scalaupnorth.com/)  (Canada)
+* [Scala Days](http://scaladays.org/) (USA, Europe)  
+* [Scala World](https://scala.world/) (UK)
+      
+**Scala Jobs:**
+
+* [Functional Jobs](https://functionaljobs.com/)
+* [Lightbend Customer Postings](https://www.typesafe.com/customers/our-customers-are-hiring)  
+* [Functional Works](https://jobs.functionalworks.com/)  
+* [Scala Jobs](https://www.scalajobs.org/jobs/)
+ 
+**Scala Libraries:**  
+
+* **[Scaladex: The Scala Library Index](https://index.scala-lang.org/)**
+
+Web Frameworks  
+
+* [Play](https://www.playframework.com/)  
+* [Akka HTTP](http://doc.akka.io/docs/akka/2.4.10/scala/http/)  
+* [http4s](https://github.com/http4s/http4s)
+* [Finch](https://github.com/finagle/finch/)
+* [Udash](http://udash.io) - Frontend and Backend  
+* [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Frontend
+* [Lift](http://liftweb.net/)  
+* [Scalatra](http://scalatra.org/)  
+* [Skinny](http://skinny-framework.org/)  
+* [ScalaJS-React](https://japgolly.github.io/scalajs-react/) - Frontend
+  
+Databases  
+   
+* [Doobie](https://github.com/tpolecat/doobie)
+* [Quill](http://getquill.io/)
+* [Phantom](http://outworkers.github.io/phantom/) (Cassandra)
+* [Slick](http://slick.typesafe.com/)  
+* [ScalikeJDBC](http://scalikejdbc.org/)
+* [Squeryl](http://squeryl.org/)
+* [ReactiveMongo](http://reactivemongo.org/)  
+* [Elastic4s](https://github.com/sksamuel/elastic4s)  
+  
+Functional Programming  
+  
+* [Scalaz](https://github.com/scalaz/scalaz)  
+* [Shapeless](https://github.com/milessabin/shapeless)
+* [Cats](https://github.com/non/cats)  
+  
+Distributed Computing  
+  
+* [Akka](http://akka.io/)  
+* [Spark](http://spark.apache.org/)   
+
+**Related Communities:**  
+  
+* [/r/ScalaEs](https://www.reddit.com/r/scalaEs/) (Spanish)
+* [/r/ScalaStudyGroup](https://www.reddit.com/r/scalastudygroup)
+* [/r/Play](https://www.reddit.com/r/play)  
+* [/r/Akka](https://www.reddit.com/r/akka)  
+* [/r/ApacheSpark](https://www.reddit.com/r/apachespark)  
+* [/r/ApacheKafka](https://www.reddit.com/r/apachekafka)
