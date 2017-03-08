@@ -196,6 +196,11 @@ body {
     text-transform: capitalize;
     
 }
+
+.spacer .titlebox .redditname a {
+    visibility: hidden;
+}
+
 .res-nightmode #header .pagename a {
     color: #fff!Important;
 }
