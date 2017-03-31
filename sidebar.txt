@@ -7,13 +7,26 @@
 * [Documentation](http://docs.scala-lang.org/)  
 * **[Contribute to Scala](http://scala-lang.org/contribute/)**
 * [StackOverflow Info](http://stackoverflow.com/tags/scala/info)
-* [StackOverflow Recent Questions](http://stackoverflow.com/questions/tagged/scala)
+* [StackOverflow Recent Questions](http://stackoverflow.com/questions/tagged/scala)  
+  
+**Coding Tools:**  
+  
+IDES  
+  
+* [IntelliJ](https://www.jetbrains.com/idea/) with [Scala Plugin](https://plugins.jetbrains.com/plugin/1347-scala)
+* [ScalaIDE](http://scala-ide.org/)  
+* [Ensime](http://ensime.org/) Emacs,Atom,Vim,VSC,Sublime  
+  
+Code Formatting  
+  
+* [Scalafmt](http://scalameta.org/scalafmt/#Scalafmt-codeformatterforScala)
 
 **Books, Tutorials and Guides:**
 
 * [Scala School](http://twitter.github.io/scala_school/)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/index.htm)
-* [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)  
+* [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)   
+* [Hands-on Scala.js] (http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js)  
   
 **Non-free Books:**  
   
@@ -27,8 +40,7 @@
 
 * [Interactive Scala Worksheets](http://www.scalakata.com/)
 * [Typesafe Activator](http://typesafe.com/activator)
-* [Scala Exercises] (http://scala-exercises.47deg.com/)
-* [Hands-on Scala.js] (http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js)
+* [Scala Exercises] (http://scala-exercises.47deg.com/)  
 
 **Free Scala Courses:**
 
@@ -47,7 +59,8 @@ Older courses:
 * [flatMap](http://2016.flatmap.no/) (Norway)
 * [Scala Up North](http://scalaupnorth.com/)  (Canada)
 * [Scala Days](http://scaladays.org/) (USA, Europe)  
-* [Scala World](https://scala.world/) (UK)
+* [Scala World](https://scala.world/) (UK)  
+* [Scala Swarm](http://scala-swarm.org/) (Portugal)
       
 **Scala Jobs:**
 
@@ -71,7 +84,8 @@ Web Frameworks
 * [Lift](http://liftweb.net/)  
 * [Scalatra](http://scalatra.org/)  
 * [Skinny](http://skinny-framework.org/)  
-* [ScalaJS-React](https://japgolly.github.io/scalajs-react/) - Frontend
+* [ScalaJS-React](https://japgolly.github.io/scalajs-react/) - Frontend  
+* [Vert.x](http://vertx.io/)
   
 Databases  
    
@@ -88,12 +102,23 @@ Functional Programming
   
 * [Scalaz](https://github.com/scalaz/scalaz)  
 * [Shapeless](https://github.com/milessabin/shapeless)
-* [Cats](https://github.com/non/cats)  
+* [Cats](https://github.com/non/cats)    
+  
+Concurrency / Parallelism  
+  
+* [Monix](https://monix.io/)
+  
+Mathematics  
+  
+* [Spire](https://github.com/non/spire)
   
 Distributed Computing  
   
 * [Akka](http://akka.io/)  
 * [Spark](http://spark.apache.org/)   
+  
+  
+Want your library here? [Message the moderators!](https://www.reddit.com/message/compose?to=%2Fr%2Fscala)
 
 **Related Communities:**  
   
