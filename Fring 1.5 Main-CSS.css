@@ -3319,3 +3319,16 @@ ul.report-reasons {
     text-indent: 41px;
     min-width: 41px;
 }
+.flair.flair-java-logo-flair {
+    background-image: url(%%userflair-slatekit%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 70px;
+    min-width: 70px;
+}
