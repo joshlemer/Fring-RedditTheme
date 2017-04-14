@@ -3319,7 +3319,7 @@ ul.report-reasons {
     text-indent: 41px;
     min-width: 41px;
 }
-.flair.flair-java-logo-flair {
+.flair.flair-slatekit-flair {
     background-image: url(%%userflair-slatekit%%);
     background-color: #fff;
     border: 0;
