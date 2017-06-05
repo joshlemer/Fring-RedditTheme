@@ -3319,8 +3319,8 @@ ul.report-reasons {
     text-indent: 41px;
     min-width: 41px;
 }
-.flair.flair-slatekit-flair {
-    background-image: url(%%userflair-slatekit%%);
+.flair.flair-underscore-flair {
+    background-image: url(%%userflair-underscore%%);
     background-color: #fff;
     border: 0;
     padding: 0;
@@ -3329,6 +3329,6 @@ ul.report-reasons {
     background-repeat: no-repeat;
     color: #fff;
 
-    text-indent: 70px;
-    min-width: 70px;
+    text-indent: 98px;
+    min-width: 98px;
 }
