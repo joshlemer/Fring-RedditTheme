@@ -3332,3 +3332,16 @@ ul.report-reasons {
     text-indent: 98px;
     min-width: 98px;
 }
+.flair.flair-ammonite-flair {
+    background-image: url(%%userflair-ammonite%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #fff;
+
+    text-indent: 20px;
+    min-width: 20px;
+}
