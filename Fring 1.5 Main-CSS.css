@@ -3327,7 +3327,7 @@ ul.report-reasons {
     line-height: 2;
     height: 20px;
     background-repeat: no-repeat;
-    color: #fff;
+    color: #000;
 
     text-indent: 98px;
     min-width: 98px;
@@ -3340,8 +3340,21 @@ ul.report-reasons {
     line-height: 2;
     height: 20px;
     background-repeat: no-repeat;
-    color: #fff;
+    color: #000;
 
     text-indent: 20px;
     min-width: 20px;
+}
+.flair.flair-kafka-flair {
+    background-image: url(%%userflair-kafka%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 12px;
+    min-width: 12px;
 }
