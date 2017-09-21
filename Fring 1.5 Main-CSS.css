@@ -2958,7 +2958,7 @@ ul.report-reasons {
 
 /*Fring Addon: Snoo*/
 #header-img.default-header, #header-img{
-    background:url(%%smooth-spiral-42%%) no-repeat; /*Name of the image you uploaded to your stylesheet.*/
+    background:url(%%scala-spiral-2017-42%%) no-repeat; /*Name of the image you uploaded to your stylesheet.*/
     height:70px; /*Height of your snoo image*/
     padding-left:42px; /*Change the padding left to the width of your image**/
 }
