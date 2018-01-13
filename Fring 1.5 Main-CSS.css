@@ -147,8 +147,8 @@ body {
 #header-img,
 #header-img.default-header {
     position: absolute;
-    margin-left: 5px;
-    margin-bottom: -3px;
+    margin-left: 12px;
+    margin-bottom: 0px;
     background: url(%%spritesheet%%) -127px -239px no-repeat;
     opacity: 1.0;
     padding-left: 60px;
@@ -3383,4 +3383,20 @@ ul.report-reasons {
 
     text-indent: 20px;
     min-width: 20px;
+}
+
+.linkflair > p > span {
+    background-color: #859900;
+}
+
+.thing.linkflair.linkflair-scalajs > p > span {
+    background-color: #53A9EE;
+}
+
+.thing.linkflair.linkflair-scala-native > p > span {
+    background-color: #a8a8a8;
+}
+
+.thing.linkflair.linkflair-dotty > p > span {
+    background-color: #bc4e5f;
 }
