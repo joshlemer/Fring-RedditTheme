@@ -3515,7 +3515,7 @@ ul.report-reasons {
     min-width: 51px;
 }
 .flair.flair-s2graph-flair {
-    background-image: url(%%userflair-geomesa%%);
+    background-image: url(%%userflair-s2graph%%);
     background-color: #fff;
     border: 0;
     padding: 0;
@@ -3524,8 +3524,8 @@ ul.report-reasons {
     background-repeat: no-repeat;
     color: #000;
 
-    text-indent: 51px;
-    min-width: 51px;
+    text-indent: 26px;
+    min-width: 26px;
 }
 
 .linkflair > p > span {
