@@ -3475,6 +3475,45 @@ ul.report-reasons {
     text-indent: 20px;
     min-width: 20px;
 }
+.flair.flair-openwhisk-flair {
+    background-image: url(%%userflair-openwhisk%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 116px;
+    min-width: 116px;
+}
+.flair.flair-graphcool-flair {
+    background-image: url(%%userflair-graphcool%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 20px;
+    min-width: 20px;
+}
+.flair.flair-geomesa-flair {
+    background-image: url(%%userflair-geomesa%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 51px;
+    min-width: 51px;
+}
 
 .linkflair > p > span {
     background-color: #859900;
