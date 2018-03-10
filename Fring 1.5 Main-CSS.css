@@ -3436,6 +3436,45 @@ ul.report-reasons {
     text-indent: 119px;
     min-width: 119px;
 }
+.flair.flair-twitter-flair {
+    background-image: url(%%userflair-twitter%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 25px;
+    min-width: 25px;
+}
+.flair.flair-verizon-flair {
+    background-image: url(%%userflair-verizon%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 90px;
+    min-width: 90px;
+}
+.flair.flair-47deg-flair {
+    background-image: url(%%userflair-47deg%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 20px;
+    min-width: 20px;
+}
 
 .linkflair > p > span {
     background-color: #859900;
