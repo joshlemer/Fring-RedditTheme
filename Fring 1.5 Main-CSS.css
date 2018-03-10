@@ -3384,6 +3384,58 @@ ul.report-reasons {
     text-indent: 20px;
     min-width: 20px;
 }
+.flair.flair-scalaz-flair {
+    background-image: url(%%userflair-scalaz%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 18px;
+    min-width: 18px;
+}
+.flair.flair-scala-native-flair {
+    background-image: url(%%userflair-scala-native%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 13px;
+    min-width: 13px;
+}
+.flair.flair-react4s-flair {
+    background-image: url(%%userflair-react4s%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 93px;
+    min-width: 93px;
+}
+.flair.flair-scala-on-android-flair {
+    background-image: url(%%userflair-scala-on-android%%);
+    background-color: #fff;
+    border: 0;
+    padding: 0;
+    line-height: 2;
+    height: 20px;
+    background-repeat: no-repeat;
+    color: #000;
+
+    text-indent: 119px;
+    min-width: 119px;
+}
 
 .linkflair > p > span {
     background-color: #859900;
