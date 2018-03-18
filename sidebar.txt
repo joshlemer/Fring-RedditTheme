@@ -1,46 +1,68 @@
 **Information Regarding Scala:**
 
-* [Official Website](http://www.scala-lang.org/)  
-* **[Try Scala Online!](https://scalafiddle.io/sf/gKgxQY0/1)**
+* [**Official Website**](http://www.scala-lang.org/)  
+* **Try Scala Online with  
+ [Scastie](https://scastie.scala-lang.org/) or [ScalaFiddle](https://scalafiddle.io/)**  
+* **[Contribute to Scala](http://scala-lang.org/contribute/)**
+* [Scala Center](https://scala.epfl.ch/) (not-for-profit scala org)
+* [Documentation](http://docs.scala-lang.org/)  
+* [StackOverflow Recent Questions](http://stackoverflow.com/questions/tagged/scala)  
+
+**Platforms**  
+
+* [JVM](http://www.scala-lang.org/) (main language site)  
 * [Scala.js](https://www.scala-js.org/)  
 * [Scala Native](http://www.scala-native.org/)
-* [Documentation](http://docs.scala-lang.org/)  
-* **[Contribute to Scala](http://scala-lang.org/contribute/)**
-* [StackOverflow Info](http://stackoverflow.com/tags/scala/info)
-* [StackOverflow Recent Questions](http://stackoverflow.com/questions/tagged/scala)  
+* [Android](http://scala-android.org/)
+  
+**Community**  
+  
+* **[Official Scala Gitter Channel](https://gitter.im/scala/scala)**  
+* **[Official Scala User Forum](https://users.scala-lang.org/)**
+* **[Official Scala Contributors Forum](https://contributors.scala-lang.org/)**
+* [Unofficial Scala Discord](https://discord.gg/wMebdPy)
   
 **Coding Tools:**  
   
-IDES  
+IDES / Programming Environments 
   
 * [IntelliJ](https://www.jetbrains.com/idea/) with [Scala Plugin](https://plugins.jetbrains.com/plugin/1347-scala)
 * [ScalaIDE](http://scala-ide.org/)  
 * [Ensime](http://ensime.org/) Emacs,Atom,Vim,VSC,Sublime  
+* [Ammonite](http://ammonite.io/) Scripting, REPL, System shell  
   
-Code Formatting  
+Build Tools  
   
-* [Scalafmt](http://scalameta.org/scalafmt/#Scalafmt-codeformatterforScala)
+* [SBT](http://www.scala-sbt.org/) (Most used in community)  
+* [Mill](https://github.com/lihaoyi/mill) (quite new)
+* [CBT](https://github.com/cvogt/cbt) (quite new)
+* [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/)  (from Java ecosystem)
+  
+Code Formatting / Linting    
+  
+* [Scalafmt](http://scalameta.org/scalafmt/#Scalafmt-codeformatterforScala)  
+* [Wartremover](http://www.wartremover.org/)
 
-**Books, Tutorials and Guides:**
-
-* [Scala School](http://twitter.github.io/scala_school/)
+**Free Books, Tutorials and Guides:**
+  
+* [Scala Exercises](https://www.scala-exercises.org/)
+* [Twitter's Scala School](http://twitter.github.io/scala_school/)
 * [Scala Tutorial](http://www.tutorialspoint.com/scala/index.htm)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/)   
 * [Hands-on Scala.js] (http://lihaoyi.github.io/hands-on-scala-js/#Hands-onScala.js)  
+* [Underscore.io books](http://underscore.io/books/) (many free books)  
+* [47Degrees Scala Exercises] (http://scala-exercises.47deg.com/)  
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
   
 **Non-free Books:**  
   
 * [Programming in Scala, Third Edition](http://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687)  
-* [Atomic Scala](http://www.atomicscala.com/)  
 * [Programming Scala](http://shop.oreilly.com/product/0636920033073.do) (O'Reilley)  
+  
+Advanced!:  
+
 * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala) (Manning)  
 * [Mastering Advanced Scala](https://leanpub.com/mastering-advanced-scala)
-
-**Online Resources:**
-
-* [Interactive Scala Worksheets](http://www.scalakata.com/)
-* [Typesafe Activator](http://typesafe.com/activator)
-* [Scala Exercises] (http://scala-exercises.47deg.com/)  
 
 **Free Scala Courses:**
 
@@ -48,20 +70,25 @@ Code Formatting
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)  
 * [Parallel Programming](https://www.coursera.org/learn/parprog1)
 * [Big Data Analysis with Scala and Spark](https://www.coursera.org/learn/big-data-analysys)  
-Older courses:  
-* [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
-* [Principles of Reactive Programming](https://www.coursera.org/course/reactive)  
+* [Introduction to Programming with Dependent Types in Scala](https://stepik.org/2294) (advanced)  
   
 **Scala Conferences:**
 
 * [Typelevel Summits](http://typelevel.org/events/) (Misc.)
 * [Scala by the Bay](http://scala.bythebay.io/) (USA)
-* [flatMap](http://2016.flatmap.no/) (Norway)
+* [flatMap](http://flatmap.no/) (Norway)
 * [Scala Up North](http://scalaupnorth.com/)  (Canada)
 * [Scala Days](http://scaladays.org/) (USA, Europe)  
 * [Scala World](https://scala.world/) (UK)  
-* [Scala Swarm](http://scala-swarm.org/) (Portugal)
+* [Scala Swarm](http://scala-swarm.org/) (Portugal)  
+* [Scala.io](https://scala.io/) (France)  
+* [Scalar](http://scalar-conf.com/) (Central Europe) 
+* [Scala Sphere](http://scala.sphere.it) (Poland)  
+  
+**Podcasts:**
       
+* [Corecursive](https://corecursive.com/)  
+
 **Scala Jobs:**
 
 * [Functional Jobs](https://functionaljobs.com/)
@@ -73,39 +100,50 @@ Older courses:
 
 * **[Scaladex: The Scala Library Index](https://index.scala-lang.org/)**
 
-Web Frameworks  
+Web Development and Microservices   
 
 * [Play](https://www.playframework.com/)  
-* [Akka HTTP](http://doc.akka.io/docs/akka/2.4.10/scala/http/)  
+* [Akka HTTP](http://doc.akka.io/docs/akka-http/current/scala.html)  
+* [Lagom](https://www.lagomframework.com/) 
+* [Sttp](http://sttp.readthedocs.io/en/latest/index.html) (HTTP Client)
 * [http4s](https://github.com/http4s/http4s)
 * [Finch](https://github.com/finagle/finch/)
 * [Udash](http://udash.io) - Frontend and Backend  
-* [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala) - Frontend
 * [Lift](http://liftweb.net/)  
 * [Scalatra](http://scalatra.org/)  
 * [Skinny](http://skinny-framework.org/)  
-* [ScalaJS-React](https://japgolly.github.io/scalajs-react/) - Frontend  
-* [Vert.x](http://vertx.io/)
+* [Vert.x](http://vertx.io/)  
+* [Sangria](http://sangria-graphql.org/) - GraphQL
+  
+Web Front End ([Scala.js](https://www.scala-js.org/))  
+  
+* [ScalaJS-React](https://japgolly.github.io/scalajs-react/)  
+* [Binding.scala](https://github.com/ThoughtWorksInc/Binding.scala)  
+* [React4s](http://www.react4s.org)
   
 Databases  
    
-* [Doobie](https://github.com/tpolecat/doobie)
-* [Quill](http://getquill.io/)
+* [Doobie](https://github.com/tpolecat/doobie) (RDBMS)
+* [Quill](http://getquill.io/) (RDBMS + Cassandra)
 * [Phantom](http://outworkers.github.io/phantom/) (Cassandra)
-* [Slick](http://slick.typesafe.com/)  
-* [ScalikeJDBC](http://scalikejdbc.org/)
-* [Squeryl](http://squeryl.org/)
-* [ReactiveMongo](http://reactivemongo.org/)  
-* [Elastic4s](https://github.com/sksamuel/elastic4s)  
+* [Slick](http://slick.typesafe.com/)  (RDBMS)
+* [ScalikeJDBC](http://scalikejdbc.org/) (RDBMS)
+* [ReactiveMongo](http://reactivemongo.org/) (MongoDB)
+* [Elastic4s](https://github.com/sksamuel/elastic4s)  (ElasticSearch)
+* [Relate](http://lucidsoftware.github.io/relate/) (RDBMS)
   
 Functional Programming  
-  
+   
+* [Typelevel](https://typelevel.org/)  
+  large functional programming community
 * [Scalaz](https://github.com/scalaz/scalaz)  
 * [Shapeless](https://github.com/milessabin/shapeless)
-* [Cats](https://github.com/non/cats)    
+* [Cats](http://typelevel.org/cats/)    
+* [Freestyle](http://frees.io/)
   
 Concurrency / Parallelism  
   
+* [Akka](http://akka.io/)  
 * [Monix](https://monix.io/)
   
 Mathematics  
@@ -114,17 +152,40 @@ Mathematics
   
 Distributed Computing  
   
-* [Akka](http://akka.io/)  
-* [Spark](http://spark.apache.org/)   
+* [Apache Spark](http://spark.apache.org/)   
+* [Apache Flink](https://flink.apache.org/)  
+* [Apache Gearpump](https://gearpump.apache.org/overview.html)  
+* [Apache Kafka](https://kafka.apache.org/) . 
+
+Miscellaneous:
   
+* [Scodec](http://scodec.org/)
+  
+Open Source Applications written in Scala
+  
+* [Lichess](https://github.com/ornicar/lila) (chess)  
+* [Graphcool](https://www.graph.cool/) (GraphQL)  
+* [Apache Kafka](https://kafka.apache.org/)  
+* [Gitbucket](https://gitbucket.github.io/)  
+* [Crypto Coin Alerts](https://cryptocoinalerts.net/)
   
 Want your library here? [Message the moderators!](https://www.reddit.com/message/compose?to=%2Fr%2Fscala)
 
 **Related Communities:**  
   
 * [/r/ScalaEs](https://www.reddit.com/r/scalaEs/) (Spanish)
-* [/r/ScalaStudyGroup](https://www.reddit.com/r/scalastudygroup)
+* [/r/ScalaStudyGroup](https://www.reddit.com/r/scalastudygroup)  
+* [/r/ScalaConferenceVideos](https://www.reddit.com/r/ScalaConferenceVideos/)
 * [/r/Play](https://www.reddit.com/r/play)  
 * [/r/Akka](https://www.reddit.com/r/akka)  
 * [/r/ApacheSpark](https://www.reddit.com/r/apachespark)  
-* [/r/ApacheKafka](https://www.reddit.com/r/apachekafka)
+* [/r/ApacheKafka](https://www.reddit.com/r/apachekafka)  
+  
+**Blogs:**  
+  
+* [Official blog](http://scala-lang.org/blog/)
+* [Lihaoyi](http://www.lihaoyi.com/)
+* [SoftwareMill](https://blog.softwaremill.com/tagged/scala)  
+* [tpolecat](https://tpolecat.github.io/)  
+* [Typelevel](https://typelevel.org/blog/)  
+* [David Barri aka /u/japgolly](https://japgolly.blogspot.ca/)
